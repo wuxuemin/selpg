@@ -3,7 +3,9 @@
 
 * 测试1：
 输入的命令行`./selpg -s -1 -e -1 file2`
-![图片1-1])
+
+![输出](https://github.com/wuxuemin/selpg/image/1-1.png)
+
 
 * 测试2：
 输入的命令行`./selpg -s 1 -e 1 file2`
