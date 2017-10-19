@@ -67,5 +67,5 @@
 ![输出为:](https://github.com/wuxuemin/selpg/blob/master/image/1-14.png?raw=true)
 
 * 测试14：
-输入的命令行`./selpg -s 1 -e 1 lp -d xxx`
+输入的命令行`./selpg -s 1 -e 1 -d lp xxx`
 未做打印测试
