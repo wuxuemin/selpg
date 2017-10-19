@@ -55,7 +55,7 @@
 ### 测试9：
 输入的命令行`./selpg -s 1 -e 3 file2 >/dev/null`
 + selpg 将错误消息显示,检查错误消息"
-![输出为:](https://github.com/wuxuemin/selpg/blob/master/image/1-10(8).png?raw=true)
+![输出为:](https://github.com/wuxuemin/selpg/blob/master/image/1-10%EF%BC%888%EF%BC%89.png)
 
 ### 测试10：
 输入的命令行`./selpg -s 1 -e 1 file2 | wc`
